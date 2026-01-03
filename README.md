@@ -12,7 +12,7 @@
 
 -  Ask me about **web development, backend systems and swift applications**
 
--  How to reach me **lakshya's.n.prajapati@outlook.com**
+-  How to reach me **lakshya.n.prajapati@outlook.com**
 
 -  Fun fact **I am a 12-year old knowing all of this!**
 
