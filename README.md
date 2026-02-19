@@ -1,18 +1,18 @@
-# Hi 👋, I'm Lakshya Prajapati
+# Hi, I'm Lakshya Prajapati
 
 ### A passionate student developer of India, Bengaluru
 
-- 🔭 I'm currently working on **An astronaut CNN system to identify cosmic bodies**
+- I'm currently working on **An astronaut CNN system to identify cosmic bodies**
 
-- 🌱 I'm currently learning **Rust, web3**
+- I'm currently learning **Rust, web3**
 
-- 💬 Ask me about **React, Swift, Python, ruby and more.**
+-  Ask me about **React, Swift, Python, ruby and more.**
 
-- 📫 How to reach me **lakshya.n.prajapati@outlook.com**
+-  How to reach me **lakshya.n.prajapati@outlook.com**
 
-- ⚡ Fun fact **I am in class 7!**
+-  Fun fact **I am in class 7!**
 
-- 👨‍💻 All of my projects are available at **[https://mathobsession.lovable.app](https://mathobsession.lovable.app)**
+-  All of my projects are available at **[https://mathobsession.lovable.app](https://mathobsession.lovable.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
