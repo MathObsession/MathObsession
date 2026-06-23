@@ -1,4 +1,5 @@
 I am Lakshya Prajapati
+<br>
 _"Education is not the learning of facts, but the training of the mind to think." – Sir. Albert Einstein_
 -------------------------------------------------------------------------------------------------------  
 I am Lakshya Prajapati, a geeky student from India; I embark in the depths of Computer Science and Mathematics. I have always wanted to make something that helps everyone and me to learn. All of my newer projects are focused on Churo, a smart voice assistant with multi-agentic capablities.  So come with me on this journey of learning and creating.
